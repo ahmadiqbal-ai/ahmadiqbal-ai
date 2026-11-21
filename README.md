@@ -20,5 +20,4 @@ CS student at the University of Lahore, based in Lahore, Pakistan. I'm building 
 - Looking for internships
 
 ## 📫 Connect
-- LinkedIn: add your link
-- Email: add your email
+- Email: ahmadiqbal44004400@gmail.com
